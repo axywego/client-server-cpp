@@ -54,4 +54,4 @@ public:
 
 };
 
-#endif CLIENT_HPP
+#endif

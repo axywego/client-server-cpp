@@ -20,4 +20,4 @@ public:
     }
 };
 
-#endif USER_HPP
+#endif
